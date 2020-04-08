@@ -1,0 +1,9 @@
+[package]
+name = "rust_drill"
+version = "0.1.0"
+authors = ["wangxi <xib1102@icloud.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
